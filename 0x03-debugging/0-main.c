@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * main - Test function fo rnegative or positive
  * Return: 0
